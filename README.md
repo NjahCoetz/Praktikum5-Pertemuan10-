@@ -93,4 +93,4 @@ Program ini adalah program latihan membuat daftar kontak menggunakan dictionary.
 ```
 
 * **Hasil output program:**
-![Gambar 1](ss1)
+![Gambar 1](https://github.com/NjahCoetz/Praktikum5-Pertemuan10-/blob/main/ss1.png)
