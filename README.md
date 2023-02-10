@@ -187,12 +187,12 @@ Program ini adalah program sederhana yang akan menampilkan daftar nilai mahasisw
 * **Hasil output program:**
 
 Ouput program menambahkan data, dengan memasukkan keyword "t".
-![Gambar 3](Screenshoot/ss3.png)
+![Gambar 3](https://github.com/NjahCoetz/Praktikum5-Pertemuan10-/blob/main/ss3.png)
 
 
 * **Flowchart:**
 
-![Gambar 4](Screenshoot/Flowchart.png)
+![Gambar 4](https://github.com/NjahCoetz/Praktikum5-Pertemuan10-/blob/main/Flowchart.png)
 
 
 * **Penjelasan program:**
