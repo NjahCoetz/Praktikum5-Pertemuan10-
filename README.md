@@ -96,4 +96,4 @@ Program ini adalah program latihan membuat daftar kontak menggunakan dictionary.
 
 ![Gambar 1](https://github.com/NjahCoetz/Praktikum5-Pertemuan10-/blob/main/ss1.png)
 
-![Gambar 2]()
+![Gambar 2](https://github.com/NjahCoetz/Praktikum5-Pertemuan10-/blob/main/ss2.png)
